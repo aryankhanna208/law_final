@@ -1,5 +1,3 @@
-https://github.com/divyansh383/Law_Buddy.git
-
 cd Lama
 
 python -m venv myenv
