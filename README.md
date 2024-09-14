@@ -1,3 +1,5 @@
+https://github.com/aryankhanna208/law_final.git
+
 cd Lama
 
 python -m venv myenv
