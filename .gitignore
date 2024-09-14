@@ -1,0 +1,9 @@
+myenv/
+.env
+auth.py
+data
+playground.ipynb
+data/
+faiss_index.bin
+first__vector
+__pycache__/
