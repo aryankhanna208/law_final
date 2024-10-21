@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'lawbuddy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_437FCE63A1DD479B87785F89F0C230FD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E2043EC700148A78EE62138BB657F7F }}
