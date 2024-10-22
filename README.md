@@ -1,3 +1,5 @@
+You can explore the live demo of the Legal Buddy at: https://lawbuddy.azurewebsites.net 
+
 https://github.com/aryankhanna208/law_final.git
 
 cd Lama
